@@ -9,6 +9,7 @@ twine = "*"
 [packages]
 pandas = "*"
 my-lambdata-my-mod = "*"
+twine = "*"
 
 [requires]
 python_version = "3.7"
